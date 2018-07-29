@@ -1,5 +1,6 @@
 # pymediactl
 It's like mediactrl, but with Python
+
 Requires `python-pyalsa`
 
 Currently sends spotify commands with Popen(), because Python's dbus is giving me issues, namely:
