@@ -19,5 +19,4 @@ Available options:
     -vd, --volume-down      Decrease volume by 5%
 ```
 
-It is possible to use multiple flags, space separated.
-Whether or not that's practical is a question for another time.
+It is possible to use multiple flags, space separated. Whether or not that's practical is a question for another time.
